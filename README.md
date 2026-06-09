@@ -1,5 +1,5 @@
 # 爱眼卫士 (EyeGuard)
-
+！！！不建议使用本软件（占用内存较高，100M左右），建议使用rust构建版本，功能一样，内存低（6M左右） rust版本地址 https://github.com/aphason/EyeGuard_RustTauri
 **爱眼卫士** 是一款 C#+WPF(.NET 8.0) 编写的Windows 桌面定时休息护眼软件，帮助用户定时锁定屏幕，离开电脑休息，保护视力。
 - 本软件借助AI生成，大量参考借鉴眼睛护士EyeFoo软件，增加了多屏幕锁定支持，感谢原作者！
 
